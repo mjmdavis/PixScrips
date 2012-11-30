@@ -12,5 +12,5 @@ Available Scripts
 -----------------
 
 *   pixelmator_export_sizes.scpt
-    *   This script will scale an image to all the sizes defined in imgSizes
-    and save them to the last used folder.
+    *   This script will scale the last focused image to all the sizes defined in imgSizes in the script
+    and export them as PNG to the last used folder.
